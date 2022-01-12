@@ -128,6 +128,10 @@ table {
   border-spacing: 0;
 }
 
+body {
+  color: #fff;
+}
+
 img {
   width: 400px;
   height: 300px;
@@ -147,4 +151,26 @@ h4 {
 
 p {
   font-size: 18px;
+}
+
+header,
+footer {
+  text-align: center;
+}
+
+.index-container {
+  background: #edc7b7;
+}
+.about-container {
+  background: #e27d60;
+}
+.services-container {
+  background: #41a3b3;
+}
+.contact-container {
+  background: #c38d9e;
+}
+
+a {
+  color: green;
 }
